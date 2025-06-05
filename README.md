@@ -2,6 +2,8 @@
 
 Applying for a visa for India can be very cumbersome and time-consuming. Here is a short summary of the problems I have encountered and their solutions.
 
+TODO: different types of visa.
+
 ## The website
 
 The official website is [https://indianvisaonline.gov.in](https://indianvisaonline.gov.in). 
@@ -30,7 +32,7 @@ At some times or days it is apparently not uncommon to lose the contact to the s
 
 Many things are requested, but the Javascript check during input is usually strict enough that it is almost impossible to enter incorrect data. An important exception are the **telephon numbers:**
 
-Note that country codes preceeded by a ***+*** are accepted as input, but lead to a endless loop with empty forms or to HTTP 500 or to strange messages, that a server doe name does not exist. So never use a preceeding ***+***, but ***00***.
+Note that country codes preceeded by a ***+*** are accepted as input, but lead to a endless loop with empty forms or to HTTP 500 or to strange messages, that a server name does not exist. So never use, e.g., ***+91 555 …***, but ***0091 555 …***.
 
 ## Technical Contact in India
 
