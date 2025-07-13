@@ -24,7 +24,7 @@ As you will see, it looks quite outdated and if you dare to take a look at the H
 
 ### Browser <a id="browser"></a>
 
-The website recommends Firefox, Chrome or Internet Explorer 9 and above. I had the best experience with a recent Firefox. It can save you from hours of useless typing if you install a browser login which remembers your form input. For Firefox I used _Form History Control_ from <https://addons.mozilla.org/de/firefox/addon/form-history-control/>.
+The website recommends Firefox, Chrome or Internet Explorer 9 and above. I had the best experience with a recent Firefox. It can save you from hours of useless typing if you install a browser plugin which remembers your form input. For Firefox I used _Form History Control_ from <https://addons.mozilla.org/de/firefox/addon/form-history-control/>.
 
 ### Mail/DNS <a id="maildns"></a>
 
@@ -32,7 +32,8 @@ In the case you use your own DNS resolver and mail server, make sure your resolv
 
 ### Passport photo <a id="passport-photo"></a>
 
-You need a scan of a passport photo with light background (not just a screenshot from the passport). The European standard portrait format 35 mm × 45 mm is too tall, it must be possible to crop it so that it is almost square. Only JPEG files are accepted.
+You need a scan of a passport photo with light background (not just a screenshot from the passport). The European standard portrait format 35 mm × 45 mm is too tall, it must be possible to crop it so that it is almost square. Only JPEG files are accepted.  
+It appears that you need “an unsigned recent color photograph” to attach to the printed confirmation form.
 
 ### Scan of the passport <a id="scan-of-the-passport"></a>
 
